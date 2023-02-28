@@ -13,7 +13,8 @@
   ],
   "autoload": {
     "classmap": [
-      "src/SimpleXLSXGen.php"
+      "src/SimpleXLSXGen.php",
+      "src/XlsxStyle.php"
     ]
   },
   "require": {
