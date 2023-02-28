@@ -2,6 +2,9 @@
 
 namespace Shuchkin;
 
+/**
+ * Class XlsxStyle
+ */
 class XlsxStyle
 {
     /**
